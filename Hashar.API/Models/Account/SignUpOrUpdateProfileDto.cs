@@ -1,4 +1,4 @@
-﻿namespace Hashar.API.Models;
+﻿namespace Hashar.API.Models.Account;
 
 public class SignUpOrUpdateProfileDto
 {
